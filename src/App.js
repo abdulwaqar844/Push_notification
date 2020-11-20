@@ -1,4 +1,5 @@
-import {initNotification} from "./Services/firebaseService"
+import {initNotification} from "./Services/firebaseService";
+import "./App.css"
 function App() {
   return (
     <div className="App">
